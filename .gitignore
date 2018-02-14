@@ -1,4 +1,7 @@
 .project
 config/*
+core/crypto
 *.inc.php
-variablesEnlaces.php
+*.phar
+block/development
+node_modules
